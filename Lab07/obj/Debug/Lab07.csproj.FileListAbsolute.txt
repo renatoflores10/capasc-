@@ -1,0 +1,16 @@
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\Lab07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\MainWindow.g.cs
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\View\ListaCategoria.g.cs
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\View\ManCategoria.g.cs
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\App.g.cs
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\Lab07_MarkupCompile.cache
+C:\Users\Ventura\source\repos\Lab07\Lab07\obj\Debug\Lab07_MarkupCompile.lref
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\Lab07.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\View\ListaCategoria.g.cs
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\View\ManCategoria.g.cs
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\App.g.cs
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\Lab07_MarkupCompile.cache
+C:\Users\ACER\Source\Repos\Laboratorio07AppEmpresariales\Lab07\obj\Debug\Lab07_MarkupCompile.lref
